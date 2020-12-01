@@ -1,4 +1,3 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
+I'm a junior at UMKC majoring in computer science and mathematics, particularly interested in the problems of how the far-right organizes online and the application of deep learning to regenerative agricultural practices.
