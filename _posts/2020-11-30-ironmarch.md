@@ -244,7 +244,7 @@ members_points.plot(ax=ax, markersize=5)
 
 
 
-![png](/images/geoviz_files/output_14_1.png)
+![svg](/images/output_14_1.svg)
 
 
 ```python
@@ -414,7 +414,7 @@ lineseries_gpd.plot(ax=ax, color='black', alpha=0.05)
 
 
 
-![png](/images/geoviz_files/output_31_1.png)
+![svg](/images/output_31_1.svg)
 
 
 ```python
