@@ -5,4 +5,4 @@
 # Class Notes
 - [CS394 - Applied Probability](https://reecemcmillin.github.io/cs394-lecture-notes/book/)
 - [CS449 - Foundations of Software Engineering](https://reecemcmillin.github.io/CS449-Notes/)
-- [CS490 - Distributed Systems](https://reecemcmillin.github.io/cs490-notes/)
+- [CS490 - Distributed Systems](https://reecemcmillin.github.io/cs490-notes/html/)
